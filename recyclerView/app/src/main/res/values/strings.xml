@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">recyclerView</string>
+    <string name="nama_karakter">Nama Karakter</string>
+    <string name="deskripsi_karakter">Deskripsi Karakter</string>
+</resources>
